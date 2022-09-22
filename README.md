@@ -4,4 +4,4 @@ A repository contains one or more modules. A module is a collection of related G
 
 An import path is a string used to import a package. A package's import path is its module path joined with its subdirectory within the module. For example, the module github.com/google/go-cmp contains a package in the direcotry cmp/. That package's import path is github.com/google/go-cmp/cmp. Packages in the standard library do not have a module path prefix.
 
-From: <a href="https://go.dev/doc/code#:~:text=Go%20programs%20are%20organized%20into,contains%20one%20or%20more%20modules" target="_blank">How to Write Go Code</a>
+<a target="_blank" rel="noopener noreferrer" href="https://go.dev/doc/code#:~:text=Go%20programs%20are%20organized%20into,contains%20one%20or%20more%20modules">From: How to Write Go Code.</a>
